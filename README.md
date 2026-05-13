@@ -23,3 +23,6 @@ The system supports audio preprocessing with Pydub to handle multiple audio form
 * Pydub
 
 This project improved my practical experience in AI application development, speech processing, debugging, and integrating machine learning models into real-world applications.
+
+you can try it now via Hugging Face from here 
+https://huggingface.co/spaces/abdelrahman1505/transcribtionANDgrammar_correction
